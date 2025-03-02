@@ -1,0 +1,39 @@
+.meetup-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .meetup-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .meetup-card h2 {
+    margin: 10px 0;
+    font-size: 1.2rem;
+  }
+  
+  .meetup-card p {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .meetup-card a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .meetup-card a:hover {
+    background: #0056b3;
+  }
+  

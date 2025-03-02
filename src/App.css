@@ -1,0 +1,21 @@
+.app {
+  text-align: center;
+  background-color: #daf5e9;
+  padding: 20px;
+}
+
+.header {
+  background-color: #b2e4d9;
+  padding: 20px;
+  position: relative;
+}
+
+.awning {
+  width: 100%;
+  max-height: 150px;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #333;
+}
