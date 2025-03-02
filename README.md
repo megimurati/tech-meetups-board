@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/vzc5krw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/vzc5krw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
